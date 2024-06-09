@@ -35,7 +35,7 @@ public class InputManager : MonoBehaviour
     private void Update()
     {
 
-        Debug.Log("Is buuiling ht" + IsBuildingHit());
+       // Debug.Log("Is buuiling ht" + IsBuildingHit());
 
         if (Input.GetMouseButtonDown(0) && !IsPointerOverUI() && !IsBuildingHit())
         {

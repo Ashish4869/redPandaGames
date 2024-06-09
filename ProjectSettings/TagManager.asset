@@ -17,6 +17,10 @@ TagManager:
   - SpawnArea
   - Border
   - Ally Buildings
+  - BasicKnight
+  - Healer
+  - ArmouredKnight
+  - Goblin
   layers:
   - Default
   - TransparentFX
